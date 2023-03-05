@@ -5,7 +5,6 @@
 - :earth_asia: JDK 1.8
 - :ghost: Vue 2
 ## 管理后台预览
-瑞吉外卖分为后台管理和前台用户下单页。
 ### 后台管理登录页
 ![图片](https://user-images.githubusercontent.com/44516655/222951999-27574887-6367-44d1-8120-25e15b21c3db.png)
 ### 员工管理管理

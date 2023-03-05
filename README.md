@@ -26,7 +26,7 @@
 ![图片](https://user-images.githubusercontent.com/44516655/222957648-6ba3e098-2269-49c1-adae-550fb80dfbb1.png)
 ## 用户端页面
 ### <div align="center">登录页</div>
-<img src="https://user-images.githubusercontent.com/44516655/222957781-71513ee1-5558-4572-a615-2ffb6ee34f44.png" align="center"/>
+![](https://user-images.githubusercontent.com/44516655/222957781-71513ee1-5558-4572-a615-2ffb6ee34f44.png)
 ### <div align="center">主页</div>
 ![图片](https://user-images.githubusercontent.com/44516655/222958306-a38e24c3-3168-40b3-a9a5-2753e74a4faa.png)
 ### <div align="center">个人中心</div>

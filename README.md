@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/后端-SpringBoot-green" />
   <img src="https://img.shields.io/badge/前端-Vue-blue" />
-  <img src="https://img.shields.io/badge/前端-Vue-blue" />
   <img src="https://img.shields.io/badge/UI框架-ElementUI-success" />
   <img src="https://img.shields.io/badge/数据库-MySQL-orange" />
   <img src="https://img.shields.io/badge/开发工具-IDEA-critical" />
